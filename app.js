@@ -66,5 +66,5 @@ yargs.command({
         notes.readNote(argv.title)
     }
 })
-
+//afgasf
 yargs.parse()
